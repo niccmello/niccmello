@@ -9,7 +9,9 @@
 
 ----
 
-![Nicolas de Mello GitHub stats](https://github-readme-stats.vercel.app/api?username=niccmello&show_icons=true&theme=radical)
+![Nicolas de Mello's GitHub stats](https://github-readme-stats.vercel.app/api?username=niccmello&show_icons=true&theme=radical)
+
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccmello&layout=compact&langs_count=7&theme=radical"/>
 
 | Courses | Certificates | 
 | ---------- | ------- |
