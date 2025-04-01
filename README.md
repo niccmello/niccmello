@@ -9,6 +9,9 @@
 
 ----
 
+![Nicolas de Mello GitHub stats](https://github-readme-stats.vercel.app/api?username=niccmello&show_icons=true&theme=radical)
+
 | Courses | Certificates | 
 | ---------- | ------- |
 | Programming logic | [Certificates](https://hermes.dio.me/certificates/YAUI5YXT.pdf) 
+
