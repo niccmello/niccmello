@@ -10,4 +10,5 @@
 ----
 
 | Courses | Certificates | 
-| Programming logic | [Certificates] (https://hermes.dio.me/certificates/YAUI5YXT.pdf) 
+| ---------- | ------- |
+| Programming logic | [Certificates](https://hermes.dio.me/certificates/YAUI5YXT.pdf) 
