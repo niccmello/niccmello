@@ -23,6 +23,6 @@
 
   <div align="center">
   
-  ![Icon](https://br.pinterest.com/pin/7036943162226301/) 
+  ![Icon](https://br.pinterest.com/pin/7036943162226301) 
   
   </div>
