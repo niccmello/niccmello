@@ -16,9 +16,3 @@
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccmello&layout=compact&langs_count=7&theme=radical"/>
 </div> 
 
-<div align = center>
-
-| Courses | Certificates | 
-| ---------- | ------- |
-| Programming logic | [Certificates](https://hermes.dio.me/certificates/YAUI5YXT.pdf) 
-
