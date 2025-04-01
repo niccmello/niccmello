@@ -10,6 +10,16 @@
 ###### Título 6
 
 
+*italico* _italico_ 
+
+**negrito** __negrito__
+
+___negrito e italico___
+
+- Lista 1
+- Lista 2
+    - sub lsita
+
 
 
 Here are some ideas to get you started:
