@@ -18,9 +18,16 @@ ___negrito e italico___
 
 - Lista 1
 - Lista 2
-    - sub lsita
+    - Sublista
+    
+1. Lista 1
+2. Lista 2
+    1. Sublista
+
+[Texto da imagem](https://github.com/kitsunebishi/Wallpapers/blob/main/images/00000.png)
 
 
+![Texto da imagem](https://github.com/kitsunebishi/Wallpapers/blob/main/images/00000.png)
 
 Here are some ideas to get you started:
 
