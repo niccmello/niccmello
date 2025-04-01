@@ -23,6 +23,6 @@
 
   <div align="center">
   
-    ![Icon](https://giphy.com/gifs/naruto-sasuke-uchiha-e4NbcUXXsmFwI)
+    ![Icon](https://br.pinterest.com/pin/338262622029440154/I)
   
   </div>
