@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/giugalbiati">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=shadow_red&show_icons=true)
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=niccmello&theme=shadow_red&show_icons=true)
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccmello&layout=compact&langs_count=7&theme=shadow_red"/>
 </div> 
 
