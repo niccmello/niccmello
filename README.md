@@ -15,3 +15,11 @@
 </div> 
 
 <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Giu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  ##
+
+  <div align="center">
+  
+  ![Icon](https://br.pinterest.com/pin/7036943162226301/https://br.pinterest.com/pin/7036943162226301)
+  
