@@ -6,16 +6,12 @@
 
  <div align="center">  
   
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccmello&layout=compact&hide_border=true&title_color=730808&text_color=ffffff&bg_color=0d1117" />
-</div>
-
-### Main Skills
-
 <br>
 
 <div align="center">
-  <a href="https://github.com/niccmello">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=niccmello&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niccmello&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/giugalbiati">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=giugalbiati&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giugalbiati&layout=compact&langs_count=7&theme=radical"/>
 </div> 
 
+<div style="display: inline_block" align="center"><br>
